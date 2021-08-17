@@ -1,0 +1,7 @@
+C:\CursoC#\Serializarjson\Serializarjson\bin\Debug\Serializarjson.exe.config
+C:\CursoC#\Serializarjson\Serializarjson\bin\Debug\Serializarjson.exe
+C:\CursoC#\Serializarjson\Serializarjson\bin\Debug\Serializarjson.pdb
+C:\CursoC#\Serializarjson\Serializarjson\obj\Debug\Serializarjson.csproj.AssemblyReference.cache
+C:\CursoC#\Serializarjson\Serializarjson\obj\Debug\Serializarjson.csproj.CoreCompileInputs.cache
+C:\CursoC#\Serializarjson\Serializarjson\obj\Debug\Serializarjson.exe
+C:\CursoC#\Serializarjson\Serializarjson\obj\Debug\Serializarjson.pdb
